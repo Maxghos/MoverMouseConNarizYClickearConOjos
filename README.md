@@ -1,4 +1,4 @@
-HeadMouse Eyes-Free — Control del cursor usando la nariz y clics con parpadeo prolongado
+**HeadMouse Eyes-Free — Control del cursor usando la nariz y clics con parpadeo prolongado**
 
 Este proyecto permite controlar el cursor del mouse sin usar las manos, utilizando solo movimientos suaves de la nariz y parpadeos con ambos ojos para realizar clics.
 Es una herramienta accesible, intuitiva y ligera que funciona con cualquier cámara web estándar.
